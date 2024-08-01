@@ -1,0 +1,79 @@
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.T1{
+    text-decoration:underline;
+}
+.T2{
+    text-decoration:underline;
+}
+.T3{
+    text-decoration:underline;
+}
+.T4{
+    text-decoration:underline;
+}
+.top{
+    position: sticky;
+    top: 0px;
+  
+}
+
+.tomatoes{
+    position: sticky;
+    top: 70px;
+    
+}
+.cheese{
+    position: sticky;
+    top: 150px;
+   
+}
+.patty{
+    position: sticky;
+    top: 160px;
+    
+}
+.lettuce{
+    position: sticky;
+    top: 300px;
+    
+}
+.bottom{
+    position: sticky;
+    top: 180px;
+}
+.cheese{
+    margin-top:130px;
+}
+    
+
+.dummy{
+    width: 700px;
+    height: 300px;
+}
+.container div{
+    width: 900px;
+    left: 100px;
+    display: flex;
+    align-items: center;
+}
+body{
+background-color: rgb(242, 124, 22);
+}
+.banner {
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+}
+.banner h1{
+    margin-top: 100px;
+    margin-left:400px ;
+    font-size: ;
+}
+.last{
+    text-align: center;
+}
